@@ -1,12 +1,15 @@
 import './App.css';
-import index from './component/Baitap/Home';
-
+import ChangeColor from './component/BaitapState/ChangeColor';
+import Login from './component/Login/Login.jsx';
 import Home from './component/Baitap/Home';
+
 
 function App() {
   return (
     <div className="App">
+      {/* <Login /> */}
       <Home />
+      {/* <ChangeColor /> */}
     </div>
   );
 }

@@ -4,7 +4,7 @@ import Footer from './Footer';
 import Header from './Header';
 import LastBanner from './LastBanner';
 import LastBlog from './LastBlog';
-import Product from './Product';
+import Product from './Product/Product.jsx';
 import Slider from './Slider';
 import SliderAbout from './SliderAbout';
 import SliderOffer from './SliderOffer';
