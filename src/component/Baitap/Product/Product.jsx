@@ -46,6 +46,7 @@ export default class Product extends Component {
         })
     }
     
+    
     render() {
         return (       
                     <div className="row">
