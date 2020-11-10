@@ -1,13 +1,26 @@
-[
-      {"idProduct":1,"name":"Sample Product (Blue)", "img":" ./products-img/product1.jpg","oldPrice": 100, " price": 125, "rate": 80},
-      {"idProduct":2, "name":"Sample Product (Yellow)","img":" ./products-img/product2.jpg","oldPrice": 100," price": 90," rate": 40},
-      {"idProduct":3, "name":"Sample Product (Purple)","img":" ./products-img/product3.jpg","oldPrice": 100," price": 90," rate": 0},
-      {"idProduct":4, "name":"Sample Product (Gray dot black)","img":" ./products-img/product4.jpg","oldPrice": 100," price": 125, "rate": 100},
-      {"idProduct":5, "name":"Sample Product (Black)","img":" ./products-img/product5.jpg","oldPrice": 100," price": 125, "rate": 100},
-      {"idProduct":6, "name":"Sample Product (Pink)","img":" ./products-img/product6.jpg","oldPrice": 100," price": 125, "rate": 80},
-      {"idProduct":7, "name":"Sample Product (Lightgreen bag)","img":" ./products-img/product7.jpg","oldPrice": 100," price": 125, "rate": 60},
-      {"idProduct":8, "name":"Sample Product (Brown)","img":" ./products-img/product8.jpg","oldPrice": 100," price": 125, "rate": 0}
-  ]
+{
+    "data" :[
+          {"idProduct":1,"name":"Sample Product (Blue)", "img":" ./products-img/product1.jpg","oldPrice": 100, "price": 125, "rate": 80},
+          {"idProduct":2, "name":"Sample Product (Yellow)","img":" ./products-img/product2.jpg","oldPrice": 100,"price": 90," rate": 40},
+          {"idProduct":3, "name":"Sample Product (Purple)","img":" ./products-img/product3.jpg","oldPrice": 100,"price": 90," rate": 0},
+          {"idProduct":4, "name":"Sample Product (Gray dot black)","img":" ./products-img/product4.jpg","oldPrice": 100,"price": 125, "rate": 100},
+          {"idProduct":5, "name":"Sample Product (Black)","img":" ./products-img/product5.jpg","oldPrice": 100,"price": 125, "rate": 100},
+          {"idProduct":6, "name":"Sample Product (Pink)","img":" ./products-img/product6.jpg","oldPrice": 100,"price": 125, "rate": 80},
+          {"idProduct":7, "name":"Sample Product (Lightgreen bag)","img":" ./products-img/product7.jpg","oldPrice": 100,"price": 125, "rate": 60},
+          {"idProduct":8, "name":"Sample Product (Brown)","img":" ./products-img/product8.jpg","oldPrice": 100,"price": 125, "rate": 0}
+    ],
+    "data2" :[
+          {"idProduct":1,"name":"Sample Product (Blue)", "img":" ./products-img/product9.jpg","oldPrice": 100, "price": 125, "rate": 80},
+          {"idProduct":2, "name":"Sample Product (Yellow)","img":" ./products-img/product10.jpg","oldPrice": 100,"price": 90," rate": 40},
+          {"idProduct":3, "name":"Sample Product (Purple)","img":" ./products-img/product3.jpg","oldPrice": 100,"price": 90," rate": 0},
+          {"idProduct":4, "name":"Sample Product (Gray dot black)","img":" ./products-img/product4.jpg","oldPrice": 100,"price": 125, "rate": 100},
+          {"idProduct":5, "name":"Sample Product (Black)","img":" ./products-img/product5.jpg","oldPrice": 100,"price": 125, "rate": 100},
+          {"idProduct":6, "name":"Sample Product (Pink)","img":" ./products-img/product6.jpg","oldPrice": 100,"price": 125, "rate": 80},
+          {"idProduct":7, "name":"Sample Product (Lightgreen bag)","img":" ./products-img/product7.jpg","oldPrice": 100,"price": 125, "rate": 60},
+          {"idProduct":8, "name":"Sample Product (Brown)","img":" ./products-img/product8.jpg","oldPrice": 100,"price": 125, "rate": 0}
+    ]
+}
+
   
 
             
